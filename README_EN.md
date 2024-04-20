@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razirp&label=Profile%20views&color=0e75b6&style=flat" alt="razirp" /> </p>
 
-- 🔗 Personal homepage: https://razirp.github.io/en/ (Under construction)
+- 🔗 Personal homepage: https://Razirp.github.io/en/ (Under construction)
 
 - 📧 Email: razirp77@outlook.com
 

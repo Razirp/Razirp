@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razirp&label=Profile%20views&color=0e75b6&style=flat" alt="razirp" /> </p>
 
-- 🔗 个人主页：https://razirp.github.io/ （建设中）
+- 🔗 个人主页：https://Razirp.github.io/ （建设中）
 
 - 📧 邮箱：razirp77@outlook.com
 
