@@ -41,7 +41,7 @@
 
     - Working with AI tools can greatly improve productivity and work efficiency, and enable me to do things that would otherwise be difficult (such as providing bilingual documents for my projects, thanks to them 😘).
 
-- 🙋‍♂️ I am currently looking for an internship related to C/C++ development. If there are opportunities available, please  [contact me](razirp77@outlook.com) 😲.
+- 🙋‍♂️ I am currently looking for an internship related to C/C++ development. If there are opportunities available, please contact me (razirp77@outlook.com) 😲.
 
 - 🌍 About language (written language 🥸):
 
