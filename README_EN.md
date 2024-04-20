@@ -75,6 +75,10 @@
 
         - I want to take this opportunity to refine my skills and consolidate my knowledge while also making a certain contribution to the community.
 
+    - Small utilities addressing personal needs
+
+        - Such as utilizing large language model APIs for automatic Chinese-English document translation. (In conceptualization process.🥸)
+
     - Some projects developed during the study phase at BITCS (coming soon)
 
         - Hope to provide some help for beginners (especially from BITCS 😉) in their learning.
