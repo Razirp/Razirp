@@ -50,19 +50,21 @@
     - 同时，我也深刻认同英文对于全球开发者之间进行交流和合作的重要性🥸👍；因此，在我的 GitHub 项目以及个人博客中，我会尽可能地提供中英双语的文档内容，以便使我所属的中文开发者群体和全球开发者群体都能够尽可能方便地获取到我所提供的信息🎉。
 </details>
 
-- <details><summary>✨ 爱好：</summary>我喜欢一切新鲜的事物和有趣的事情，我认为不断探索新的可能性是人生中最能令人感到兴奋的部分。
+- <details><summary>✨ 爱好：</summary>
 
-    - 当然，有新的可能性就会有旧的可能性，比如说：
+    - 我喜欢新鲜的事物和有趣的事情，不断探索新的可能性是人生中最能令人感到兴奋的部分。
 
-    - 🎮 游戏：我喜欢玩一些剧情丰富的角色扮演类游戏（此处提名[《Detroit: Become Human》](https://store.steampowered.com/app/1222140/Detroit_Become_Human/)、[《Grand Theft Auto》](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/)系列、[《Cyberpunk 2077》](https://store.steampowered.com/app/1091500/Cyberpunk_2077/)和[《Red Dead Redemption 2》](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)😎）；当然，还有曾经陪我消磨时间的[《League of Legends》](https://www.leagueoflegends.com/en-us/)😂
+    - 当然，有新的可能性就会有旧的可能性🤪，比如说：
 
-    - 🎬 影视：我喜欢看一些科幻类型的/有深度的/没有深度但是单纯无脑快乐的电影/电视剧等，纯粹取决于我当时的心情🥸
+        - 🎮 游戏：我喜欢玩一些剧情丰富的角色扮演类游戏（此处提名[《Detroit: Become Human》](https://store.steampowered.com/app/1222140/Detroit_Become_Human/)、[《Grand Theft Auto》](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/)系列、[《Cyberpunk 2077》](https://store.steampowered.com/app/1091500/Cyberpunk_2077/)和[《Red Dead Redemption 2》](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)😎）；当然，还有曾经陪我消磨时间的[《League of Legends》](https://www.leagueoflegends.com/en-us/)😂
 
-    - 📖 阅读：休息日的下午在书店里看书是城市里十分令人惬意的事情，如果你偶尔厌倦紧张的工作的话👀
+        - 🎬 影视：我喜欢看一些科幻类型的/有深度的/没有深度但是单纯无脑快乐的电影/电视剧等，纯粹取决于我当时的心情🥸
 
-    - 🧳 旅行：去遥远的地方感受不同的风土人情，或者仅仅是探索一下生活区域周围还没有去过的地方，都是增长见识的好方法👣
+        - 📖 阅读：休息日的下午在书店里看书是城市里十分令人惬意的事情，如果你偶尔厌倦紧张的工作的话👀
 
-    - 📱 数码产品：先进技术催生的各种千奇百怪的产品很有趣，这也是我从业的最初动力之一😏
+        - 🧳 旅行：去遥远的地方感受不同的风土人情，或者仅仅是探索一下生活区域周围还没有去过的地方，都是增长见识的好方法👣
+
+        - 📱 数码产品：先进技术催生的各种千奇百怪的产品很有趣，这也是我从业的最初动力之一😏
 </details>
 
 - 🌱 （可能）即将到来的内容：
