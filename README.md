@@ -58,7 +58,7 @@
 
         - 🎮 游戏：我喜欢玩一些剧情丰富的角色扮演类游戏（此处提名[《Detroit: Become Human》](https://store.steampowered.com/app/1222140/Detroit_Become_Human/)、[《Grand Theft Auto》](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/)系列、[《Cyberpunk 2077》](https://store.steampowered.com/app/1091500/Cyberpunk_2077/)和[《Red Dead Redemption 2》](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)😎）；当然，还有曾经陪我消磨时间的[《League of Legends》](https://www.leagueoflegends.com/en-us/)😂
 
-        - 🎬 影视：我喜欢看一些科幻类型的/有深度的/没有深度但是单纯无脑快乐的电影/电视剧等，纯粹取决于我当时的心情🥸
+        - 🎬 影视：我喜欢看一些科幻类型的/有深度的/没有深度但是单纯无脑快乐的电影/电视剧等，取决于我当时的心情🥸
 
         - 📖 阅读：休息日的下午在书店里看书是城市里十分令人惬意的事情，如果你偶尔厌倦紧张的工作的话👀
 
