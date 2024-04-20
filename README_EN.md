@@ -43,13 +43,16 @@
 
 - 🙋‍♂️ I am currently looking for an internship related to C/C++ development. If there are opportunities available, please contact me (razirp77@outlook.com) 😲.
 
-- 🌍 About language (written language 🥸):
+- <details><summary>🌍 About language (written language 🥸): </summary>
 
     - In the past learning and working process, I have deeply felt the lack of sufficient Chinese technical documents for study and research within the community; some projects, even if developed by Chinese developers, their documentation is still in English 🥲. This phenomenon often forces the large Chinese developer community to use English and other non-native languages for learning and research, which does not achieve the best work efficiency. Therefore, I have always had a wish that as a developer, to contribute more meaningful content to the Chinese developer community through my work (considering that the Chinese-speaking developer community is a large group, I think this idea is quite meaningful 🤓).
 
     - At the same time, I also deeply agree with the importance of English for communication and cooperation among global developers 🥸👍; therefore, in my GitHub projects and personal blog, I will try to provide bilingual documents in Chinese and English as much as possible, so that both the Chinese developer community and the global developer community can access the information I provide as conveniently as possible 🎉.
+</details>
 
-- ✨ Hobbies: I like everything fresh and interesting, and I believe that constantly exploring new possibilities is the most exciting part of life.
+- <details><summary>✨ Hobbies: </summary>
+
+    - I like everything fresh and interesting, and I believe that constantly exploring new possibilities is the most exciting part of life.
 
     - Of course, with new possibilities come old ones, such as:
 
@@ -62,6 +65,7 @@
     - 🧳 Travel: Visiting distant places to experience different cultures, or simply exploring places around your living area that you haven't been to yet, is a great way to broaden your horizons 👣.
 
     - 📱 Digital Products: The various strange and wonderful products spawned by advanced technology are interesting, which is one of the initial motivations for my career 😏.
+</details>
 
 - 🌱 (Potentially) Upcoming Content:
 
